@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on turning my laptop Windows11 to Fedora KDE Plasma.<br>👯 I’m looking to collaborate on 👯 I'm looking to collaborate on hands-on security labs, CTF-style challenges, and anything that helps me level up<br>🤝 I’m looking for help with breaking into the cybersecurity field, internship leads, and building a stronger portfolio<br>🌱 I’m currently learning Linux, intermediate Java, databases and SQL, and cybersecurity policy<br>💬 Ask me about cybersecurity, my studies at FIU, Puerto Rico's grid and cyber policy, or hip-hop production<br>⚡ Fun fact I take my fantasy football league way too seriously
+🔭 I’m currently working on turning my laptop Windows11 to Fedora KDE Plasma.<br>👯 I'm looking to collaborate on hands-on security labs, CTF-style challenges, and anything that helps me level up<br>🤝 I’m looking for help with breaking into the cybersecurity field, internship leads, and building a stronger portfolio<br>🌱 I’m currently learning Linux, intermediate Java, databases and SQL, and cybersecurity policy<br>💬 Ask me about cybersecurity, my studies at FIU, Puerto Rico's grid and cyber policy, or hip-hop production<br>⚡ Fun fact I take my fantasy football league way too seriously
 
 
 ## 🌐 Socials:
